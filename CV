@@ -3,7 +3,6 @@
 <html lang="es">
 
 </html>
-
 <head>
     <meta name="description"
         content="Portafolio profesional de Oliver Michel Ruiz, Ingeniero en Sistemas y Licenciado en Comunicación. Desarrollo web, análisis de datos y gestión estratégica.">
@@ -18,7 +17,7 @@
     <div class="contenedor-header">
         <header>
             <div class="logo">
-                <img src="C:\Users\ThinkPad\Downloads\Nueva carpeta (4)\code.github.io-main\imagen\Copilot_20260225_143838.png"
+                <img src="Copilot_20260225_143838.png"
                     alt="OMR logo - professional branding monogram featuring the initials O, M, and R in a modern, minimalist design on a clean white background. This represents Oliver Michel Ruiz, a systems engineer and communications professional."
                     style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
             </div>
@@ -41,7 +40,7 @@
     <section id="inicio" class="inicio">
         <div class="contenido-banner">
             <div class="contenedor-imagen">
-                <img src="C:\Users\ThinkPad\Downloads\Nueva carpeta (4)\code.github.io-main\ruta-de-la-imagen.png"
+                <img src="ruta-de-la-imagen.png"
                     alt="OMR monogram logo on clean white background. Professional branding featuring interlocked initials O, M, and R in modern minimalist design. Represents Oliver Michel Ruiz, systems engineer and communications professional."
                     style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
             </div>
@@ -60,7 +59,6 @@
         <div class="contenido-seccion">
             <h2>Branding Personal</h2>
             <p><span> Me llamo Oliver Michel Ruiz y cuento con una doble formación profesional:</span> </p> 
-
 
             <ul class="hero__degrees">
     <li> <a href="C:\Users\ThinkPad\Downloads\Nueva carpeta (4)\code.github.io-main\Educacion\15363993-C1.pdf" class="btn btn--outline"> Licenciado en Comunicación y Cultura </a> </li>
@@ -141,7 +139,7 @@
                 </div>
             </div>
         </div>
-        <button id="descargar-cv" class="btn-download">
+        <button id="CV completo.pdf" class="btn-download">
             descargar cv<i class="fa-solid fa-download"></i>
             <span class="overlay"></span>
         </button> </div> </section>
